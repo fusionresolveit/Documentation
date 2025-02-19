@@ -65,4 +65,4 @@ In case of errors, please create an issue [here](https://github.com/fusionresolv
 
 The default username / password to connect to FusionResolveIT is : 
 
-*admin* / *AdminIT*
+*admin* / *adminIT*
