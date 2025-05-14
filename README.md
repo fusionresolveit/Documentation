@@ -21,3 +21,17 @@ And start the development server:
 $ make start
 ```
 
+ℹ️ If you are on windows and do not use wsl you can run these commands as make is not available natively:
+
+Install the dependencies with:
+
+```console
+$ python -m venv venv
+$ venv\Scripts\activate; pip install -r requirements.txt
+```
+
+And start the development server:
+
+```console
+$ venv\Scripts\activate; mkdocs serve
+```
